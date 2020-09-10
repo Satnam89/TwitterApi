@@ -1,4 +1,4 @@
-This project is to get latest tweeets from the Twitter API of Donald Trump and Hillary Clinton
+This project is to get latest tweeets of Donald Trump and Hillary Clinton from the Twitter API. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
